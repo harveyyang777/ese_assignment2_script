@@ -1,0 +1,11 @@
+project,unit_presence,unit_ratio,median_bug_resolution_days,bug_count
+thingsboard/thingsboard,1,0.9221032132424537,2.5,10
+apache/dolphinscheduler,1,0.934052757793765,2.0,65
+wireapp/wire-server,1,0.03665318503538928,4.0,1
+keptn/keptn,1,0.6057142857142858,,0
+open-metadata/OpenMetadata,1,0.38196782641227084,6.0,95
+dapr/dapr,1,0.14037558685446008,0.0,1
+jaegertracing/jaeger,1,0.8669201520912547,1.0,71
+appwrite/appwrite,1,0.18493150684931506,3.0,100
+camunda/zeebe,1,0.7107719662172174,,0
+gravitee-io/gravitee-api-management,1,0.8533037475345168,,0
